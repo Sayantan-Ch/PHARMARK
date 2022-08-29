@@ -1,1 +1,2 @@
 # PHARMARK
+PHARMARK is a multi-platform web application that accept input from user in the form of molecular name or therapautic name or a list of strings, submit the input to a ML model, retreives the best possible drug name and present it to the user. PHARMARK is contributed by [Gourav Mohanty](https://github.com/gouravmohanty7070), [Sayantan Chatterjee](https://github.com/Sayantan-Ch), [Pramod Goyal](https://github.com/goyalpramod). 
