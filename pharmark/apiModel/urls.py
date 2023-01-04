@@ -18,6 +18,7 @@ from django.urls import path
 from .views import DrugView , CreateDrugView
 
 urlpatterns = [
+    path('admin',admin.site.urls),
     path('viewSuggestions',DrugView.as_view()),
     path('createSuggestions',CreateDrugView.as_view())
 ]
